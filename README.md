@@ -3,7 +3,7 @@
 ### 💼 DevOps Engineer | AWS | CI/CD | Linux
 
 📄 **My Resume:**  
-👉 [Click here to view/download my resume](DevOps.docx)
+👉 [Click here to view/download my resume](DevOps.pdf)
 
 ---
 
